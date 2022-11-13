@@ -1,0 +1,80 @@
+.divindex {
+    background-color:beige
+}
+
+.a{
+    background-color:CEFFCE
+}
+
+h1{
+    text-align: right;
+    font-style: italic;
+
+}
+
+.b{
+    background-color:84CF96
+}
+
+.bg-success.bg-gradient card-header mb-3{
+
+background-color:009A31
+}
+
+.filter{
+    
+}
+
+.form-control{
+    
+}
+
+.form-inline{
+    
+}
+
+.title{
+     top:50%;
+  left:50%;
+  margin-top:-50px; /* this is half the height of your div*/  
+  margin-left:-100px; /*this is half of width of your div*/
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align:center;
+
+display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+
+  background-color: red;
+}
+
+#title{
+     top:50%;
+  left:50%;
+  margin-top:-50px; /* this is half the height of your div*/  
+  margin-left:-100px; /*this is half of width of your div*/
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align:center;
+
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  background-color: red;
+}
